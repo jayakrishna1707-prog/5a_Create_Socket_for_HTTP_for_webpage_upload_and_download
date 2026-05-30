@@ -81,10 +81,12 @@ upload_file(host, port, filename)
 
 ## OUTPUT
 server response
-![alt text](<Screenshot 2026-03-18 112730.png>)
+<img width="1461" height="556" alt="image" src="https://github.com/user-attachments/assets/06052882-0e4f-4816-a721-6a4dd2cc0438" />
+
 
 upload
-![alt text](<Screenshot 2026-03-18 112900.png>)
+<img width="1469" height="515" alt="image" src="https://github.com/user-attachments/assets/ad8fa73e-3aa5-4f11-8207-33d717481354" />
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
